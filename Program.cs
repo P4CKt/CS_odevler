@@ -6,7 +6,9 @@ namespace odev_1
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hİii");sdasdasasd
+            Console.WriteLine("Hİii");
+            Convert.ToInt16(s);
+            
     
 
         
