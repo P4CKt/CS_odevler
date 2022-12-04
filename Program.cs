@@ -6,7 +6,7 @@ namespace odev_1
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hİii");
+            Console.WriteLine("Hİii");sdasdasasd
     
 
         
