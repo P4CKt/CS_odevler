@@ -12,7 +12,7 @@
             "program": "${workspaceFolder}/bin/Debug/net6.0/odev_1.dll",
             "args": [],
             "cwd": "${workspaceFolder}",
-            "console": "internalConsole",
+            "console": "integratedTerminal",
             "stopAtEntry": false
         },
         {
